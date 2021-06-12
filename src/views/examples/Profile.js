@@ -109,47 +109,49 @@ class Profile extends React.Component {
                       <div className="card-profile-stats d-flex justify-content-center">
                         <div>
                           <span className="heading">22</span>
-                          <span className="description">Friends</span>
+                          <span className="description">Number Of Projects</span>
                         </div>
                         <div>
                           <span className="heading">10</span>
-                          <span className="description">Photos</span>
+                          <span className="description">19 Project so far</span>
                         </div>
                         <div>
                           <span className="heading">89</span>
-                          <span className="description">Comments</span>
+                          <span className="description">2 Projects In Civil Engineering</span>
                         </div>
                       </div>
                     </Col>
                   </Row>
                   <div className="text-center mt-5">
                     <h3>
-                      Jessica Jones{" "}
+                      Mahmoud Salameh{" "}
                       <span className="font-weight-light">, 27</span>
                     </h3>
                     <div className="h6 font-weight-300">
                       <i className="ni location_pin mr-2" />
-                      Bucharest, Romania
+                      Amman-Jordan
                     </div>
                     <div className="h6 mt-4">
                       <i className="ni business_briefcase-24 mr-2" />
-                      Solution Manager - Creative Tim Officer
+                      LTUC Studint - Full stack developer do be  
                     </div>
                     <div>
                       <i className="ni education_hat mr-2" />
-                      University of Computer Science
+                      I'm A Civil Engineer from middle East Universtiy and a Softwire developer studint in LTUC
                     </div>
                   </div>
                   <div className="mt-5 py-5 border-top text-center">
                     <Row className="justify-content-center">
                       <Col lg="9">
                         <p>
-                          An artist of considerable range, Ryan — the name taken
-                          by Melbourne-raised, Brooklyn-based Nick Murphy —
-                          writes, performs and records all of his own music,
-                          giving it a warm, intimate feel with a solid groove
-                          structure. An artist of considerable range.
+                        As an ambitious and hard-working individual, I am often recognized for my
+                        commitment and ability by highly respected companies. I handle multiple
+                          tasks on a daily basis competently, working well under the pressure.
+                          I want to be softwire developer in javascript, java, react and python and to be a full stack developer one day.  
                         </p>
+                        <section>
+                        <p><a href="https://drive.google.com/file/d/1H-aIofwlJFc2D1-CqKbX6nyxQCfIyqZO/view?usp=sharing">personal pitch</a></p>
+                        </section>
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           Show more
                         </a>
